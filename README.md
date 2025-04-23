@@ -33,8 +33,4 @@ https://github.com/user-attachments/assets/d41fc9c2-aae3-47a8-82fe-d154d4bd4a46
   <li>The output will be saved in the output directory with annotated frames and a statistics report.</li>
 </ol>
 
-## Contributions
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## Contact
-For any questions or support, please open an issue on the GitHub repository or contact patricknaashat@yahoo.com
